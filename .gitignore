@@ -1,0 +1,7 @@
+# wbadukscraper gitignore
+
+*.sgf
+*.ctf
+pages/
+sgf/
+ctf_cache/
